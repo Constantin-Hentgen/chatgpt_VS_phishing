@@ -20,7 +20,7 @@ This project aims to identify and contextualize the detection of phishing emails
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/phishing-detection.git
+    git clone https://github.com/Constantin-Hentgen/chatgpt_VS_phishing.git
     cd phishing-detection
     ```
 
